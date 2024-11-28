@@ -2,7 +2,7 @@
 body {
     margin: 0;
     height: 100%;
-    background-image: 'giordano-rossoni-XbBKDyvzbGE-unsplash.jpg';
+    background-image: url('https://raw.githubusercontent.com/AkshatVH/akshatvh.github.io/refs/heads/main/giordano-rossoni-XbBKDyvzbGE-unsplash.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed; /* Keeps the background fixed during scrolling */
